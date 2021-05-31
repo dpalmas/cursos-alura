@@ -2,5 +2,5 @@
 
 Cursos realizados na plataforma do Alura:
 
-[Apache Camel: O Framework de integração entre sistemas](https://github.com/dpalmas/apache-camel.git)
+[Apache Camel: O framework de integração entre sistemas](https://github.com/dpalmas/apache-camel.git)
 
